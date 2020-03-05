@@ -8,7 +8,3 @@ image:
 ports:
   - port: 8000
     onOpen: notify
-
-    ports:
-  - port: 3000-8999
-    onOpen: ignore
