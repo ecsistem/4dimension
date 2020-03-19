@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Aclonica|Poppins:300,400,500,600&display=swap");
 /* line 2, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_extends.scss */
 .btn_1, .live_stareams .live_stareams_slide .live_stareams_slide_img:after, .Latest_War .Latest_War_text:after, .gallery_part .single_gallery_item .single_gallery_item_iner:after, .footer_part .single_footer_part .mail_part .email_icon {
-  background-image: -webkit-gradient(linear, right top, left top, from(#0df333), color-stop(51%, #c6019a), to(#ff0000));
+  background-image: -webkit-gradient(linear, right top, left top, from(#0df333), color-stop(51%, #454845), to(#28a745));
   background-image: -webkit-linear-gradient(right, #28a745 0%, #454845 51%, #28a745 100%);
   background-image: -o-linear-gradient(right, #28a745, #454845 51%, #28a745 100%);
   background-image: linear-gradient(to left, #28a745 0%, #454845 51%, #28a745 100%);
@@ -10,10 +10,10 @@
 
 /* line 8, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_extends.scss */
 .main_menu .main-menu-item .nav-item a:before {
-  background-image: -webkit-gradient(linear, right top, left top, from(#c6019a), to(#ff0000));
-  background-image: -webkit-linear-gradient(right, #c6019a 0%, #ff0000 100%);
-  background-image: -o-linear-gradient(right, #c6019a 0%, #ff0000 100%);
-  background-image: linear-gradient(to left, #c6019a 0%, #ff0000 100%);
+  background-image: -webkit-gradient(linear, right top, left top, from(#454845), to(#28a745));
+  background-image: -webkit-linear-gradient(right, #454845 0%, #28a745 100%);
+  background-image: -o-linear-gradient(right, #454845 0%, #28a745 100%);
+  background-image: linear-gradient(to left, #454845 0%, #28a745 100%);
 }
 
 /* line 14, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_extends.scss */
@@ -58,7 +58,7 @@ input:hover, input:focus {
 
 /* line 18, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_common.scss */
 .section_padding {
-  padding: 140px 0px;
+  padding: 0px 0px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -608,9 +608,9 @@ ul {
 /* line 75, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_button.scss */
 .btn_2:hover {
   color: #fff !important;
-  border: 1px solid #ff0000;
+  border: 1px solid #28a745;
   background-position: right center;
-  background-color: #ff0000;
+  background-color: #28a745;
 }
 
 @media (max-width: 576px) {
@@ -639,7 +639,7 @@ ul {
 
 /* line 97, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_button.scss */
 .btn_4 {
-  color: #ff0000;
+  color: #28a745;
   font-size: 15px;
   font-weight: 700;
   margin-top: 53px;
@@ -671,7 +671,7 @@ ul {
   color: #fff;
   border: 1px solid #edeff2;
   text-transform: uppercase;
-  background-color: #ff0000;
+  background-color: #28a745;
   cursor: pointer;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -742,7 +742,7 @@ ul {
 
 /* line 14, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_blog.scss */
 .blog_area a:hover, .blog_area a :hover {
-  color: #ff0000;
+  color: #28a745;
 }
 
 /* line 18, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_blog.scss */
@@ -1258,7 +1258,7 @@ ul {
 
 /* line 546, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_blog.scss */
 .blog_details a:hover {
-  color: #ff0000 !important;
+  color: #28a745 !important;
 }
 
 /* line 551, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_blog.scss */
@@ -1326,7 +1326,7 @@ ul {
   left: 10px;
   display: block;
   color: #fff;
-  background-color: #ff0000;
+  background-color: #28a745;
   padding: 8px 15px;
   border-radius: 5px;
 }
@@ -1549,7 +1549,7 @@ ul {
 
 /* line 841, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_blog.scss */
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-  background: #ff0000;
+  background: #28a745;
   color: #fff !important;
   -webkit-text-fill-color: #fff;
   text-decoration: none;
@@ -1797,7 +1797,7 @@ ul {
 
 /* line 1207, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_blog.scss */
 .single-post-area .blog-author a:hover {
-  color: #ff0000;
+  color: #28a745;
 }
 
 /* line 1212, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_blog.scss */
@@ -2142,7 +2142,7 @@ ul {
 
 /* line 18, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_single_blog.scss */
 .single_blog_post .single_blog .single_appartment_content p a {
-  color: #ff0000;
+  color: #28a745;
 }
 
 /* line 22, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_single_blog.scss */
@@ -2257,7 +2257,7 @@ ul {
 
 /* line 69, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_menu.scss */
 .main_menu .dropdown-toggle:hover .nav-item .dropdown {
-  color: #ff0000 !important;
+  color: #28a745 !important;
 }
 
 /* line 75, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_menu.scss */
@@ -2273,7 +2273,7 @@ ul {
   max-width: 1140px;
   z-index: 999;
   text-align: center;
-  background: #ff0000;
+  background: #28a745;
 }
 
 /* line 89, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_menu.scss */
@@ -2583,7 +2583,7 @@ ul {
 .banner_part .banner_text {
   display: table;
   width: 100%;
-  height: 1020px;
+  height: 800px;
 }
 
 /* line 12, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_banner.scss */
@@ -2654,7 +2654,7 @@ ul {
 
 /* line 49, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_banner.scss */
 .banner_part .banner_text h1 span {
-  color: #ff0000;
+  color: #28a745;
 }
 
 /* line 53, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_banner.scss */
@@ -2859,7 +2859,7 @@ ul {
   line-height: 60px;
   background-color: #fff;
   display: inline-block;
-  color: #ff0000;
+  color: #28a745;
   border-radius: 50%;
   text-align: center;
   padding-left: 4px;
@@ -2986,7 +2986,7 @@ ul {
 /* line 71, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_Latest_War.scss */
 .Latest_War .single_war_text a {
   display: inline-block;
-  background: linear-gradient(to right, #ff0000 0%, #c6019a 50%, #ff0000 100%);
+  background: linear-gradient(to right, #28a745 0%, #454845 50%, #28a745 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-size: 200% auto;
@@ -3473,7 +3473,7 @@ ul {
 
 /* line 98, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_feature_part.scss */
 .feature_part .feature_part_text .feature_part_text_iner:hover {
-  border: 1px solid #ff0000;
+  border: 1px solid #28a745;
 }
 
 /* line 101, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_feature_part.scss */
@@ -3989,13 +3989,13 @@ ul {
   background-color: transparent;
   color: #fff;
   border: 2px solid;
-  border-image: linear-gradient(to left, #ff0000 0%, #c6019a 100%);
+  border-image: linear-gradient(to left, #28a745 0%, #454845 100%);
   border-image-slice: 1;
 }
 
 /* line 64, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_pricing_plan.scss */
 .pricing_part .single_pricing_part .btn_2:hover {
-  background: linear-gradient(to left, #ff0000 0%, #c6019a 100%);
+  background: linear-gradient(to left, #28a745 0%, #454845 100%);
 }
 
 @media (max-width: 991px) {
@@ -4123,14 +4123,14 @@ ul {
 
 /* line 36, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_cta_part.scss */
 .cta_part .banner_btn_1 {
-  color: #ff0000;
+  color: #28a745;
   border: 0px solid transparent;
   margin-right: 28px;
 }
 
 /* line 40, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_cta_part.scss */
 .cta_part .banner_btn_1:hover {
-  background-color: #ff0000 !important;
+  background-color: #28a745 !important;
   color: #fff;
 }
 
@@ -4143,7 +4143,7 @@ ul {
 
 /* line 51, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_cta_part.scss */
 .cta_part .banner_btn_2:hover {
-  background-color: #ff0000 !important;
+  background-color: #28a745 !important;
   color: #fff;
   border: 1px solid transparent;
 }
@@ -4245,7 +4245,7 @@ ul {
 
 /* line 68, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_footer.scss */
 .footer_part .single_footer_part .list-unstyled li a:hover {
-  color: #ff0000 !important;
+  color: #28a745 !important;
 }
 
 /* line 75, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_footer.scss */
@@ -4305,7 +4305,7 @@ ul {
 .footer_part .single_footer_part .mail_part .button-contactForm {
   padding: 11px;
   border: 2px solid;
-  border-image: linear-gradient(to left, #c6019a 0%, #ff0000 100%);
+  border-image: linear-gradient(to left, #454845 0%, #28a745 100%);
   border-image-slice: 1;
 }
 
@@ -4353,7 +4353,7 @@ ul {
 
 /* line 165, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_footer.scss */
 .footer_part .footer_icon li a :hover {
-  color: #ff0000;
+  color: #28a745;
 }
 
 @media (max-width: 576px) {
@@ -4371,7 +4371,7 @@ ul {
 
 /* line 188, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_footer.scss */
 .footer_part .copyright_text span {
-  color: #ff0000;
+  color: #28a745;
   font-size: 12px;
 }
 
@@ -4384,19 +4384,19 @@ ul {
 
 /* line 200, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_footer.scss */
 .footer_part .copyright_text p a {
-  color: #ff0000;
+  color: #28a745;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
 
 /* line 204, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_footer.scss */
 .footer_part .copyright_text p a:hover {
-  color: #ff0000;
+  color: #28a745;
 }
 
 /* line 209, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_footer.scss */
 .footer_part .info {
-  color: red !important;
+  color: #28a745 !important;
 }
 
 @media (max-width: 991px) {
@@ -4431,7 +4431,7 @@ sup,
 sub,
 u,
 del {
-  color: #ff0000;
+  color: #28a745;
 }
 
 /* line 93, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_elements.scss */
@@ -4598,28 +4598,28 @@ h1, h2, h3, h4, h5, h6 {
 /* line 217, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_elements.scss */
 .genric-btn.primary {
   color: #fff;
-  background: #ff0000;
+  background: #28a745;
   border: 1px solid transparent;
 }
 
 /* line 221, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_elements.scss */
 .genric-btn.primary:hover {
-  color: #ff0000;
-  border: 1px solid #ff0000;
+  color: #28a745;
+  border: 1px solid #28a745;
   background: #fff;
 }
 
 /* line 227, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_elements.scss */
 .genric-btn.primary-border {
-  color: #ff0000;
-  border: 1px solid #ff0000;
+  color: #28a745;
+  border: 1px solid #28a745;
   background: #fff;
 }
 
 /* line 231, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_elements.scss */
 .genric-btn.primary-border:hover {
   color: #fff;
-  background: #ff0000;
+  background: #28a745;
   border: 1px solid transparent;
 }
 
@@ -4777,7 +4777,7 @@ h1, h2, h3, h4, h5, h6 {
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
   background: #f9f9ff;
-  border-left: 2px solid #ff0000;
+  border-left: 2px solid #28a745;
 }
 
 /* line 353, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_elements.scss */
@@ -4932,7 +4932,7 @@ h1, h2, h3, h4, h5, h6 {
   position: absolute;
   width: 14px;
   height: 14px;
-  border: 3px solid #ff0000;
+  border: 3px solid #28a745;
   background: #fff;
   top: 4px;
   left: 0;
@@ -4947,7 +4947,7 @@ h1, h2, h3, h4, h5, h6 {
 /* line 475, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_elements.scss */
 .ordered-list li {
   list-style-type: decimal-leading-zero;
-  color: #ff0000;
+  color: #28a745;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -4962,7 +4962,7 @@ h1, h2, h3, h4, h5, h6 {
 .ordered-list-alpha li {
   margin-left: 30px;
   list-style-type: lower-alpha;
-  color: #ff0000;
+  color: #28a745;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -4977,7 +4977,7 @@ h1, h2, h3, h4, h5, h6 {
 .ordered-list-roman li {
   margin-left: 30px;
   list-style-type: lower-roman;
-  color: #ff0000;
+  color: #28a745;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -5060,7 +5060,7 @@ h1, h2, h3, h4, h5, h6 {
 /* line 568, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_elements.scss */
 .single-input-primary:focus {
   outline: none;
-  border: 1px solid #ff0000;
+  border: 1px solid #28a745;
 }
 
 /* line 574, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_elements.scss */
@@ -5128,7 +5128,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background: #ff0000;
+  background: #28a745;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -5219,7 +5219,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 696, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_elements.scss */
 .primary-switch input:checked + label:before {
-  background: #ff0000;
+  background: #28a745;
 }
 
 /* line 704, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_elements.scss */
@@ -5606,13 +5606,13 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 1022, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_elements.scss */
 .default-select .nice-select .list .option.selected {
-  color: #ff0000;
+  color: #28a745;
   background: transparent;
 }
 
 /* line 1026, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_elements.scss */
 .default-select .nice-select .list .option:hover {
-  color: #ff0000;
+  color: #28a745;
   background: transparent;
 }
 
@@ -5669,13 +5669,13 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 1067, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_elements.scss */
 .form-select .nice-select .list .option.selected {
-  color: #ff0000;
+  color: #28a745;
   background: transparent;
 }
 
 /* line 1071, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_elements.scss */
 .form-select .nice-select .list .option:hover {
-  color: #ff0000;
+  color: #28a745;
   background: transparent;
 }
 
@@ -5853,7 +5853,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 10px;
   top: 5px;
   left: 0;
-  background-color: #ff0000;
+  background-color: #28a745;
   border-radius: 50%;
 }
 
@@ -5942,7 +5942,7 @@ h1, h2, h3, h4, h5, h6 {
 .blog_part .single-home-blog .card h5:hover {
   -webkit-transition: 0.8s;
   transition: 0.8s;
-  color: #ff0000;
+  color: #28a745;
 }
 
 /* line 139, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_blog_part.scss */
@@ -6019,7 +6019,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 23, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_contact.scss */
 .contact-info .media-body h3 a:hover {
-  color: #ff0000;
+  color: #28a745;
 }
 
 /* line 29, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_contact.scss */
@@ -6326,7 +6326,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 68, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_footer.scss */
 .footer_part .single_footer_part .list-unstyled li a:hover {
-  color: #ff0000 !important;
+  color: #28a745 !important;
 }
 
 /* line 75, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_footer.scss */
@@ -6386,7 +6386,7 @@ h1, h2, h3, h4, h5, h6 {
 .footer_part .single_footer_part .mail_part .button-contactForm {
   padding: 11px;
   border: 2px solid;
-  border-image: linear-gradient(to left, #c6019a 0%, #ff0000 100%);
+  border-image: linear-gradient(to left, #454845 0%, #28a745 100%);
   border-image-slice: 1;
 }
 
@@ -6434,7 +6434,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 165, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_footer.scss */
 .footer_part .footer_icon li a :hover {
-  color: #ff0000;
+  color: #28a745;
 }
 
 @media (max-width: 576px) {
@@ -6451,8 +6451,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* line 188, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_footer.scss */
-.footer_part .copyright_text span {
-  color: #ff0000;
+.footer_part .span {
+  color: #28a745;
   font-size: 12px;
 }
 
@@ -6465,14 +6465,14 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 200, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_footer.scss */
 .footer_part .copyright_text p a {
-  color: #ff0000;
+  color: #28a745;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
 
 /* line 204, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_footer.scss */
 .footer_part .copyright_text p a:hover {
-  color: #ff0000;
+  color: #28a745;
 }
 
 /* line 209, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_footer.scss */
